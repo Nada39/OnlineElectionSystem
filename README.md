@@ -2,10 +2,10 @@
 
 it as an system you express your choice by voting 
 
-##UseCase
+## UseCase
 
-![Alt text]((https://github.com/Nada39/OnlineElectionSystem/blob/master/OnlineElectionSystemUseCase.png))
+![Alt text](https://github.com/Nada39/OnlineElectionSystem/blob/master/OnlineElectionSystemUseCase.png)
 
-###Schema
+## Schema
 
 ![Alt text](https://github.com/Nada39/OnlineElectionSystem/blob/master/OnlineElectionSystemSchema.drawio.png)
