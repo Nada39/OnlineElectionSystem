@@ -6,3 +6,4 @@ it as an system you express your choice by voting
 ![Alt text](image link)
 
 ###Schema
+![Alt text](https://github.com/Nada39/OnlineElectionSystem/blob/master/OnlineElectionSystemSchema.drawio.png)
